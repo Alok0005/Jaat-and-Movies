@@ -1,0 +1,15 @@
+{
+  "name": "jaatland-movies",
+  "version": "1.0.0",
+  "description": "Best movies better than pandey movies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "sequelize": "^6.17.0"
+  }
+}
